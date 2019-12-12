@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".View.MainActivity">
+
+    <GridLayout
+        android:id="@+id/gameGrid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:background="@drawable/small_block">
+        <!--Row One-->
+        <EditText
+            android:id="@+id/block00"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block06"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block07"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!--Row 2-->
+        <EditText
+            android:id="@+id/block10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="1"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- Row 3 -->
+        <EditText
+            android:id="@+id/block20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="2"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- TODO Show horizontal line -->
+        <!-- Row 4 -->
+        <EditText
+            android:id="@+id/block30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block37"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- Row 5 -->
+        <EditText
+            android:id="@+id/block40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block45"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="4"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- Row 6 -->
+        <EditText
+            android:id="@+id/block50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="5"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- TODO Show Horizontal Line -->
+        <!-- Row 7 -->
+        <EditText
+            android:id="@+id/block60"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block63"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block64"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block65"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block67"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block68"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="6"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- Row 8 -->
+        <EditText
+            android:id="@+id/block70"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block71"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block72"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block73"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block74"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block75"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block76"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block77"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block78"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="7"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+        <!-- Row 9 -->
+        <EditText
+            android:id="@+id/block80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="0"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block81"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="1"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block82"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="2"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block83"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="3"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block84"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="4"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block85"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="5"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block86"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="6"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block87"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="7"
+            android:ems="2"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/block88"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="8"
+            android:layout_column="8"
+            android:ems="2"
+            android:inputType="number" />
+    </GridLayout>
+</RelativeLayout>
