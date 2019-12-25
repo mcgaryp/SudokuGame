@@ -615,8 +615,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="0"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block31"
@@ -624,8 +637,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="1"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789"/>
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block32"
@@ -633,8 +659,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="2"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789"/>
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block33"
@@ -642,8 +681,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="3"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block34"
@@ -651,8 +703,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="4"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block35"
@@ -660,8 +725,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="5"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block36"
@@ -669,8 +747,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="6"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block37"
@@ -678,8 +769,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="7"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block38"
@@ -687,8 +791,21 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="8"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
         <!-- Row 5 -->
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block40"
@@ -696,8 +813,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="0"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block41"
@@ -705,8 +835,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="1"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block42"
@@ -714,8 +857,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="2"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block43"
@@ -723,8 +879,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="3"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block44"
@@ -732,8 +901,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="4"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block45"
@@ -741,8 +923,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="5"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block46"
@@ -750,8 +945,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="6"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block47"
@@ -759,8 +967,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="7"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block48"
@@ -768,8 +989,21 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="8"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
         <!-- Row 6 -->
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block50"
@@ -777,8 +1011,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="0"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block51"
@@ -786,8 +1033,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="1"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block52"
@@ -795,8 +1055,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="2"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block53"
@@ -804,8 +1077,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="3"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block54"
@@ -813,8 +1099,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="4"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block55"
@@ -822,8 +1121,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="5"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block56"
@@ -831,8 +1143,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="6"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block57"
@@ -840,8 +1165,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="7"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block58"
@@ -849,8 +1187,21 @@
             android:layout_height="wrap_content"
             android:layout_row="5"
             android:layout_column="8"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
         <!-- TODO Show Horizontal Line -->
         <!-- Row 7 -->
         <com.e.sudoku.View.SpecialEditText
@@ -859,8 +1210,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="0"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block61"
@@ -868,8 +1232,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="1"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block62"
@@ -877,8 +1254,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="2"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block63"
@@ -886,8 +1276,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="3"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block64"
@@ -895,8 +1298,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="4"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block65"
@@ -904,8 +1320,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="5"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block66"
@@ -913,8 +1342,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="6"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block67"
@@ -922,8 +1364,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="7"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block68"
@@ -931,8 +1386,21 @@
             android:layout_height="wrap_content"
             android:layout_row="6"
             android:layout_column="8"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
         <!-- Row 8 -->
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block70"
@@ -940,8 +1408,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="0"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block71"
@@ -949,8 +1430,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="1"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789"/>
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block72"
@@ -958,8 +1452,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="2"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block73"
@@ -967,8 +1474,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="3"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block74"
@@ -976,8 +1496,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="4"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block75"
@@ -985,8 +1518,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="5"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block76"
@@ -994,8 +1540,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="6"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block77"
@@ -1003,8 +1562,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="7"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block78"
@@ -1012,8 +1584,21 @@
             android:layout_height="wrap_content"
             android:layout_row="7"
             android:layout_column="8"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
         <!-- Row 9 -->
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block80"
@@ -1021,8 +1606,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="0"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block81"
@@ -1030,8 +1628,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="1"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block82"
@@ -1039,8 +1650,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="2"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block83"
@@ -1048,8 +1672,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="3"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block84"
@@ -1057,8 +1694,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="4"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block85"
@@ -1066,8 +1716,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="5"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block86"
@@ -1075,8 +1738,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="6"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block87"
@@ -1084,8 +1760,21 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="7"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
 
         <com.e.sudoku.View.SpecialEditText
             android:id="@+id/block88"
@@ -1093,7 +1782,20 @@
             android:layout_height="wrap_content"
             android:layout_row="8"
             android:layout_column="8"
-            android:ems="2"
-            android:inputType="number" />
+            android:layout_gravity="center"
+            android:background="@drawable/small_block"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:maxWidth="45dp"
+            android:minWidth="45dp"
+            android:paddingStart="12dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="2dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textSize="30sp"
+            android:maxLength="1"
+            android:digits="123456789" />
     </GridLayout>
 </RelativeLayout>

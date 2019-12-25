@@ -22,6 +22,6 @@ public class SudokuActivity extends AppCompatActivity {
         setContentView(R.layout.activity_sudoku);
         manager = new SudokuManager(this);
         blocks = manager.createArray();
+        manager.addBoard();
     }
-
 }
